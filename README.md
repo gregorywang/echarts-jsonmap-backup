@@ -1,0 +1,2 @@
+# echarts-jsonmap-backup
+适用于echarts的geojson格式的json文件备份，应用时请copy至echarts相关项目中使用
